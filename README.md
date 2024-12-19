@@ -1,8 +1,6 @@
 # OmegaExpantaNum.js
-A library that allows numbers up to {10,10,1.8e308,2} Made by TheCurlyCoderCoder(A dumb person)
+A library that allows numbers up to {10,10,1,1,1,1.8e308} Made by TheCurlyCoderCoder
 
-It reaches the level f<sub>ω2</sub>
+It reaches the level f<sub>ε<sub>0</sub></sub>
 
-i robbed the name from naruyoko 😁
-
-thats all, im dumb
+thats all
